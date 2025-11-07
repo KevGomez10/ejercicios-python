@@ -14,6 +14,7 @@ elif (opcion == 2):
 
 elif (opcion == 3):
     Pies = valor * 3.28084
+    print("Digitaste" , valor , "metros que en pies serian")
 
 else:
     print("Ingrese una opcion valida por favor : ") 

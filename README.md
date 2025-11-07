@@ -1,1 +1,1 @@
-Esta es una calculadora basica para dar los primeros pasaos en python utilizando operadores matematicos y, input, tipos de varibles y condicionales 
+Estos son una serie de ejericios que he hecho para practicar python, si te sirve algun codigo puedes utilizarlo con confianza :) 

@@ -1,6 +1,3 @@
-#nombre = input("¿Como te llamas? : ") #EL INPUT SIRVE PARA PEDIR VALORES POR TECLADO 
-#print("Hola" , nombre , ":)")
-#PEDIR VALORES: 
 print ('CALCULADORA BASICA' , '----------------' , 'ELIJA UNA OPCION POR FAVOR : ' , sep = '\n\n')
 print("1. suma ","2. resta","3. Multiplicacion","4. Division", sep = '\n\n')
 user_opcion = int(input("Elige una opcion : "))
@@ -31,8 +28,5 @@ elif (user_opcion == 4):
 
 
 
-"""
-cabe aclarar que al principio me estaba dando error porque no le estaba poniendo al 
-principio el tipo de dato que es, asi que por eso puse el int al principio 
 
-"""
+
